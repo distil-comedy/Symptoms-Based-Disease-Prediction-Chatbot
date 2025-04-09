@@ -1,6 +1,6 @@
 # Symptoms-Based-Disease-Prediction-Chatbot
 
-#How to run?
+### How to run?
 
 ### STEPS:
 
@@ -49,7 +49,7 @@ Now,
 open up localhost:
 ```
 
-###Techstack Used:
+### Techstack Used:
 
 -Python
 -Langchain
