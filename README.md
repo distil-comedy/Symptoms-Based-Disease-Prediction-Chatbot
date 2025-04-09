@@ -5,7 +5,7 @@
 ### STEPS:
 
 '''bash
-Project repo : https://github.com/distil-comedy/Symptoms-Based-Disease-Prediction-Chatbot.git
+Project repo : https://github.com/
 '''
 
 ### STEP 01- Create a conda environment after opening the repository
