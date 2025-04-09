@@ -4,6 +4,8 @@
 
 ### STEPS:
 
+Clone the repository
+
 '''bash
 Project repo : https://github.com/
 '''
